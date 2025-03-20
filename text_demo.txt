@@ -3,9 +3,3 @@ some text
 github web editor text
 
 another change from local
-
-
-another edit
-
-
-another edit2
